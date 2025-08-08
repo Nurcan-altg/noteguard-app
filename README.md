@@ -343,9 +343,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## 📞 İletişim
 
-- **Proje Sahibi**: [İsim]
-- **E-posta**: [E-posta]
-- **GitHub**: [GitHub Profili]
+- **Proje Sahibi**: [Nurcan]
+- **E-posta**: [altugnurcan01@gmail.com]
+- **GitHub**: [[GitHub Profili](https://github.com/Nurcan-altg)]
 
 ## 🙏 Teşekkürler
 
