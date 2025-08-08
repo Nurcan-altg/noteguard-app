@@ -28,7 +28,7 @@ Projeyi çalıştırmak için bilgisayarınızda şu programların yüklü olmas
 #### Adım 1: Projeyi İndirin
 ```bash
 # Projeyi bilgisayarınıza indirin
-git clone https://github.com/KULLANICI_ADINIZ/noteguard-app.git
+git clone https://github.com/Nurcan-altg/noteguard-app.git
 cd noteguard-app
 ```
 
@@ -389,3 +389,7 @@ npm run dev
 ---
 
 **NoteGuard** - Yazılarınızı daha iyi hale getirin! ✨ 
+=======
+# noteguard-app
+AI-powered text analysis tool for students and academics.
+>>>>>>> eeb4b9f5ef2f699d0492521176402162be43dad0
