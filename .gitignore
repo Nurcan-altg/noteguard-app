@@ -318,3 +318,6 @@ test_semantic.py
 .env.development
 .env.test
 .env.production
+
+# API tokens and sensitive files
+hf_mcp_tools/mcp_config.json
