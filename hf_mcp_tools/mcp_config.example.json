@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "huggingface": {
+      "command": "python",
+      "args": ["huggingface_mcp_server.py"],
+      "env": {
+        "HUGGINGFACE_API_TOKEN": "your_huggingface_token_here"
+      }
+    }
+  }
+}

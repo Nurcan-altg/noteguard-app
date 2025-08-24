@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "result": {
+    "grammar_score": 85.5,
+    "repetition_score": 78.2,
+    "semantic_score": 92.1,
+    "overall_score": 85.3,
+    "grammar_errors": [
+      {
+        "message": "Consider using 'its' instead of 'it's' in this context",
+        "offset": 45,
+        "length": 4,
+        "suggestions": ["Consider using 'its' instead of 'it's'"]
+      },
+      {
+        "message": "Missing comma before 'and' in compound sentence",
+        "offset": 120,
+        "length": 3,
+        "suggestions": ["Add a comma before 'and'"]
+      }
+    ],
+    "repetition_errors": [
+      {
+        "word": "important",
+        "count": 3,
+        "positions": [15, 67, 134]
+      },
+      {
+        "word": "analysis",
+        "count": 2,
+        "positions": [89, 156]
+      }
+    ],
+    "semantic_coherence": {
+      "score": 92.1,
+      "explanation": "The text demonstrates good semantic coherence with logical flow between sentences. The main topic is consistently maintained throughout the passage, and transitions between ideas are smooth and well-structured."
+    },
+    "suggestions": [
+      "Consider varying your vocabulary to avoid repetition of 'important'",
+      "The grammar is generally good, with only minor issues to address",
+      "The semantic coherence is excellent, showing clear logical progression",
+      "Try to use more diverse sentence structures for better readability"
+    ]
+  },
+  "processing_time": 1.23
+} 
